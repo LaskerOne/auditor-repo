@@ -1,0 +1,13 @@
+{
+  "name": "auditor-repo",
+  "owner": {
+    "name": "LaskerOne"
+  },
+  "plugins": [
+    {
+      "name": "auditor-repo",
+      "source": "./",
+      "description": "Auditoría de repositorios con subagentes en paralelo y verificador independiente. Informe en español con puntaje y plan de acción."
+    }
+  ]
+}

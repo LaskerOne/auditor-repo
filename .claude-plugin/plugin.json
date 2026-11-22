@@ -1,0 +1,10 @@
+{
+  "name": "auditor-repo",
+  "version": "0.1.0",
+  "description": "Audita un repositorio como un líder técnico: subagentes en paralelo por dimensión (pruebas y CI, seguridad, arquitectura, documentación), un verificador independiente e informe en español con puntaje y plan de acción.",
+  "author": {
+    "name": "LaskerOne"
+  },
+  "license": "MIT",
+  "keywords": ["auditoria", "code-review", "portafolio", "subagentes", "espanol"]
+}

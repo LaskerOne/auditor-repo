@@ -1,0 +1,5 @@
+# Resultados de evaluaciones locales de la skill
+*-workspace/
+# Informes generados al probar el plugin sobre sí mismo
+auditoria-*.md
+.DS_Store
